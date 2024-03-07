@@ -1,10 +1,4 @@
-<<!DOCTYPE html>
-<html>
-<head>
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title></title>
-</head>
+
 <body>
 	<h1>VulnForge | herramienta de phishing</h1><br>
 	<p>Aqui les presento una herramienta programada en python3<br>
