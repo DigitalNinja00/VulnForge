@@ -1,3 +1,0 @@
-/exploit/python3/reverse_shell
-/exploit/python3/bind_shell
-/exploit/bash/reverse_shell

@@ -2,8 +2,8 @@
    (_**)       +++++++++++++++++++++++++++++++++|
   __) #_       ###  VulnForge                   |
  ( )...()      [-] Phishing                     |
- || | |I|      Una herramienta que genera mas   |
- || | |()__/   de 20 logins de sitios originales|             
- /\(___)      Se automatiza tanto la instalacion|
-_-"""""""-_""-_ como la gestion del servidor    |
+ || | |I|      [+] Social engineering           |
+ || | |()__/   [-] Special for crazy people     |             
+ /\(___)       [+] 25 fake sites                |
+_-"""""""-_""-_ a prompt with special functions |
 -,,,,,,,,- ,,- +++++++++++++++++++++++++++++++++|
