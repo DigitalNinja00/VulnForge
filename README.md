@@ -35,7 +35,8 @@ list phishing
 <center>
     <img src="cap2.png"><br>
 </center>
-### select and start http server
+
+### Select and start http server
 ```
 set /phish/protonmail
 start
@@ -46,14 +47,14 @@ start
 <center>
     <img src="cap4.png"><br>
 </center>
-### credentials you obtained
+### Credentials you obtained
 ```
 dump credentials
 ```
 <center>
     <img src="cap5.png"><br>
 </center>
-### clear password log
+### Clear password log
 ```
 clean log
 ```
