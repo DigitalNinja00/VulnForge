@@ -47,6 +47,7 @@ start
 <center>
     <img src="cap4.png"><br>
 </center>
+
 ### Credentials you obtained
 ```
 dump credentials
@@ -54,10 +55,12 @@ dump credentials
 <center>
     <img src="cap5.png"><br>
 </center>
+
 ### Clear password log
 ```
 clean log
 ```
+
 <center>
     <img src="cap6.png"><br>
 </center>
