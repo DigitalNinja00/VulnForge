@@ -1,5 +1,4 @@
 /phish/adobe         
-/phish/fb_security      
 /phish/instagram  
 /phish/playstation    
 /phish/tiktok        
